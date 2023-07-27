@@ -1,0 +1,3 @@
+export const chnData =[
+    {"id":"TenCricket.in","name":"Ten Cricket","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["eng"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.sonypicturessportsnetwork.com/","logo":"https://www.lyngsat.com/logo/tv/tt/ten_cricket_in.png"}
+]
